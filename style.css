@@ -1,0 +1,70 @@
+#logo {
+  display: block;
+  margin: 20px auto;
+}
+#navbar-primary.navbar-default {
+  background: transparent;
+  border: none;
+}
+#navbar-primary.navbar-default .navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+#navbar-primary.navbar-default .navbar-nav li {
+  display: inline-block;
+  float: none;
+}
+#navbar-primary.navbar-default .navbar-nav li a {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+header {
+  text-align: center;
+  background: url('http://www.oishiicreative.com/wp-content/uploads/2015/05/unsplash.1.jpg');
+  background-size: cover;
+  color: white;
+}
+h1 {
+  font-family: "Arial", Times, serif;
+  text-align: center;
+}
+h2 {
+  font-family: "Arial", Times, serif;
+  text-align: center;
+}
+h3 {
+  font-family: "Arial", Times, serif;
+  text-align: center;
+}
+a {
+  color: white;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+  size: 200px;
+}
+input[type="submit"] {
+  background: #b30000;
+  color: white;
+}
+#a {
+  padding: 10px;
+  background: rgba(100, 100, 80, 0.5);
+}
+#b {
+  display: inline;
+  font-family: "Verdana", Times, serif;
+  padding: 0px 10px 0px 10px;
+}
+#c {
+  display: inline;
+  font-family: "Verdana", Times, serif;
+  padding: 0px 10px 0px 10px;
+}
+#d {
+  display: inline;
+  font-family: "Verdana", Times, serif;
+  padding: 0px 10px 0px 10px;
+}
